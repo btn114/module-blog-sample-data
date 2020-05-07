@@ -1,0 +1,5 @@
+"tag_id","name","url_key","description","store_ids","enabled","created_at","updated_at","meta_title","meta_keywords","meta_description","meta_robots","import_source"
+"1","Food","food",,"0","1","2020-04-28 16:34:50","2020-04-28 16:34:50",,,,"INDEX,FOLLOW",
+"2","Film","film",,"0","1","2020-04-28 16:35:00","2020-04-28 16:35:00",,,,"INDEX,FOLLOW",
+"3","Travel","travel",,"0","1","2020-04-28 16:35:13","2020-04-28 16:35:13",,,,"INDEX,FOLLOW",
+"4","Music","music",,"0","1","2020-04-28 16:35:43","2020-04-28 16:35:43",,,,"INDEX,FOLLOW",
